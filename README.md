@@ -1,3 +1,7 @@
+# FORK OF https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer
+# MOVED TO A NEW FORK https://github.com/theredenemy/SteamOS-Waydroid-Installer
+# JUST THE ANDROID TV CODE
+
 # SteamOS Android Waydroid Installer
 
 A collection of tools that is packaged into an easy to use script that is streamlined and tested to work with the Steam Deck running on SteamOS.
